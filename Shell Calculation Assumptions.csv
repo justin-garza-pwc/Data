@@ -1,0 +1,75 @@
+﻿Value Chain,Category,Value,Unit
+Carbon Capture,CO2 Capture Performance,90.0000,%
+Carbon Capture,Capture emissions loss rate,10.0000,%
+Carbon Capture,Indirect Power Emission Factor,162.3616,"MWh/ktCO2e​/a
+(MWh/ktpa)"
+Carbon Capture,Indirect power emissions,66.0000,ktCO2e/a
+Carbon Capture,Emissions factor from power generation,0.2710,tCO2/MWh
+Carbon Capture,MWh per annum,243542.4354,MWh/a
+Carbon Capture,CO2 captured,1500.0000,ktCO2e/a (ktpa)
+Carbon Capture,Specific Steam Ratio,1.4893,ton steam/ton CO2 captured
+Carbon Capture,Indirect Medium Power System (MPS) emissions,12.8000,ktCO2e/a
+Carbon Capture,Indirect Low Power System (LPS) emissions,198.0000,ktCO2e/a
+Carbon Capture,Steam carbon footprint: MPS,0.1220,ton CO2e/ton steam ​
+Carbon Capture,Steam carbon footprint: LPS,0.0930,ton CO2e/ton steam ​
+Carbon Capture,Ton steam per annum: MPS,104918.0328,ton steam/a
+Carbon Capture,Ton steam per annum: LPS,2129032.2581,ton steam/a
+Carbon Capture,Indirect steam emission factor (MPS),0.0699,ton steam/ktCO2e/a
+Carbon Capture,Indirect steam emission factor (LPS),1.4194,ton steam/ktCO2e/a
+Carbon Capture,Average steam carbon footprint,0.0944,ton CO2e/ton steam ​
+Vessel Transport,Leak rate,0.0000,%
+Vessel Transport,Vented rate,0.0000,%
+Vessel Transport,Unpumpable Volume,2.0000,%
+Vessel Transport,Road Emission Factor,0.1080,kgCO2e/tonne.km
+Vessel Transport,Maritime Emission Factor,0.0200,CO2 / 1000km
+Vessel Transport,Port time,48.0000,hours
+Vessel Transport,Ship Emission Factor,1.0000,tCO2e/hour
+Vessel Transport,Ship Idle emission factor,0.2500,multiplication factor
+Vessel Transport,Capacity of CO2 vessel (ktCO2),60.0000,ktCO2 capacity per vessel
+Pipeline Compression & Export Offshore,Leak rate,0.0022,tonne CO2 / station / hr
+Pipeline Compression & Export Offshore,Vented rate,0.0000,%
+Pipeline Compression & Export Offshore,Leak rate,0.0004,tonne CO2 / hour / mile
+Pipeline Compression & Export Offshore,Vented rate,0.0000,%
+Pipeline Compression & Export Offshore,Indirect power factor,17989.4180,kW/ktCO2_feed
+Pipeline Compression & Export Offshore,Liquid CO2 injection pumps,1200.0000,kW
+Pipeline Compression & Export Offshore,Sea water pumps,100.0000,kW
+Pipeline Compression & Export Offshore,CO2 vapor recovery system,1900.0000,kW
+Pipeline Compression & Export Offshore,Air cooler fans,200.0000,kW
+Pipeline Compression & Export Offshore,CO2 feed flow,0.1890,ktCO2/hour
+Well Injection,Leaked rate,0.0010,%
+Well Injection,Vented rate,0.0030,%
+Well Injection,Energy consumption emissions,0.0000,N/A
+Carbon Capture,Grid Factor,0.5290,kgCO2e/kWh
+Pipeline & Liquefaction,Grid Factor,0.5290,kgCO2e/kWh
+Vessel Transport,Grid Factor,0.7300,kgCO2e/kWh
+Pipeline Compression & Export Offshore,Grid Factor,0.7300,kgCO2e/kWh
+Well Injection,Grid Factor,0.7300,kgCO2e/kWh
+Pipeline & Liquefaction,Leak rate,0.002238722,
+Pipeline & Liquefaction,Vented rate,0,
+Pipeline & Liquefaction,Leak rate,0.000420602,
+Pipeline & Liquefaction,Vented rate,0,
+Pipeline & Liquefaction,"Standalone liquefaction: Factor to estimate and summarize all indirect power for CO2 compression, purification, and liquefaction",135714.2857,
+Pipeline & Liquefaction,CO2 compression,11100,
+Pipeline & Liquefaction,CO2 dehydration,900,
+Pipeline & Liquefaction,"Air Cooler Fans
+(Compression & Purification)",500,
+Pipeline & Liquefaction,Refrigeration Compressor,10800,
+Pipeline & Liquefaction,CO2 Vapor Recovery System ​,1850,
+Pipeline & Liquefaction,"Air Cooler Fans
+(Liquefaction)",500,
+Pipeline & Liquefaction,"Dense Phase Pipeline: Factor to estimate and summarize all indirect power for CO2 compression, purification, and liquefaction",114285.7143,
+Pipeline & Liquefaction,CO2 compression,20000,
+Pipeline & Liquefaction,CO2 dehydration,1100,
+Pipeline & Liquefaction,"Air Cooler Fans
+(Compression & Purification)",500,
+Pipeline & Liquefaction,Indirect Power Factor,143915.3439,
+Pipeline & Liquefaction,CO2 compression,16850,
+Pipeline & Liquefaction,CO2 dehydration,1150,
+Pipeline & Liquefaction,"Air Cooler Fans
+(Compression & Purification)",500,
+Pipeline & Liquefaction,Refrigeration Compressor,5950,
+Pipeline & Liquefaction,CO2 Vapor Recovery System ​,1900,
+Pipeline & Liquefaction,"Air Cooler Fans
+(Liquefaction)",500,
+Pipeline & Liquefaction,Liquid CO2 export pumps,350,
+Pipeline & Liquefaction,CO2 feed flow,0.189,
