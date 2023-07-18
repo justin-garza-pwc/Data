@@ -1,0 +1,57 @@
+﻿Value Chain,Category,Value,Unit
+Carbon Capture,Feed without Capture,1667.00,ktCO2/a
+Carbon Capture,CO2 Capture Performance,0.90,%
+Carbon Capture,Leakage rate,0.10,%
+Carbon Capture,Indirect Power Emission Factor,162.36,"MWh/ktCO2e​/a
+(MWh/ktpa)"
+Carbon Capture,Indirect power emissions,66.00,ktCO2e/a
+Carbon Capture,Emissions factor from power generation,0.27,tCO2/MWh
+Carbon Capture,MWh per annum,243542.44,MWh/a
+Carbon Capture,CO2 captured,1500.00,ktCO2e/a (ktpa)
+Carbon Capture,Specific Steam Ratio,1.49,ton steam/ton CO2 captured
+Carbon Capture,Indirect Medium Power System (MPS) emissions,12.80,ktCO2e/a
+Carbon Capture,Indirect Low Power System (LPS) emissions,198.00,ktCO2e/a
+Carbon Capture,Steam carbon footprint: MPS,0.12,ton CO2e/ton steam ​
+Carbon Capture,Steam carbon footprint: LPS,0.09,ton CO2e/ton steam ​
+Carbon Capture,Ton steam per annum: MPS,104918.03,ton steam/a
+Carbon Capture,Ton steam per annum: LPS,2129032.26,ton steam/a
+Carbon Capture,Indirect steam emission factor (MPS),0.07,ton steam/ktCO2e/a
+Carbon Capture,Indirect steam emission factor (LPS),1.42,ton steam/ktCO2e/a
+Carbon Capture,Average steam carbon footprint,0.09,ton CO2e/ton steam ​
+Vessel Transport,Leak rate,0.00,%
+Vessel Transport,Vented rate,0.00,%
+Vessel Transport,Unpumpable Volume,0.02,%
+Vessel Transport,Road Emission Factor,0.11,kgCO2e/tonne.km
+Vessel Transport,Maritime Emission Factor,0.02,CO2 / 1000km
+Vessel Transport,Port time,48.00,hours
+Vessel Transport,Ship Emission Factor (used for port emissions estimate),1.00,tCO2e/hour
+Vessel Transport,Ship Idle emission factor,0.25,multiplication factor
+Vessel Transport,Capacity of CO2 vessel (ktCO2),60.00,ktCO2 capacity per vessel
+Pipeline Compression & Export Offshore,Leak rate - Compression,0.00,tonne CO2 / station / hr
+Pipeline Compression & Export Offshore,Vented rate - Compression,0.00,%
+Pipeline Compression & Export Offshore,Leak rate - Transportation,0.00,tonne CO2 / hour / mile
+Pipeline Compression & Export Offshore,Vented rate - Transportation,0.00,%
+Pipeline Compression & Export Offshore,Indirect power factor,17989.42,kW/ktCO2_feed
+Pipeline Compression & Export Offshore,Liquid CO2 injection pumps,1200.00,kW
+Pipeline Compression & Export Offshore,Sea water pumps,100.00,kW
+Pipeline Compression & Export Offshore,CO2 vapor recovery system,1900.00,kW
+Pipeline Compression & Export Offshore,Air cooler fans,200.00,kW
+Pipeline Compression & Export Offshore,CO2 feed flow,0.19,ktCO2/hour
+Well Injection,Leak rate,0.00,%
+Well Injection,Vented rate,0.00,%
+Well Injection,Energy consumption emissions,0.00,N/A
+Pipeline & Liquefaction,Leak rate - Compression,0.00,tonne CO2 / station / hr
+Pipeline & Liquefaction,Vented rate - Compression,0.00,%
+Pipeline & Liquefaction,Leak rate - Transportation,0.00,tonne CO2 / hour / mile
+Pipeline & Liquefaction,Vented rate - Transportation,0.00,%
+Pipeline & Liquefaction,Indirect power factor,143915.34,kW/ktCO2_feed
+Pipeline & Liquefaction,CO2 compression,16850.00,kW
+Pipeline & Liquefaction,CO2 dehydration,1150.00,kW
+Pipeline & Liquefaction,"Air Cooler Fans
+(Compression & Purification)",500.00,kW
+Pipeline & Liquefaction,Refrigeration Compressor,5950.00,kW
+Pipeline & Liquefaction,CO2 Vapor Recovery System ​,1900.00,kW
+Pipeline & Liquefaction,"Air Cooler Fans
+(Liquefaction)",500.00,kW
+Pipeline & Liquefaction,Liquid CO2 export pumps,350.00,kW
+Pipeline & Liquefaction,CO2 feed flow,0.19,ktCO2/hour
